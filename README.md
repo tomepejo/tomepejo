@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Tome 👋  
+I love building things that work and working with people who care.  
 
-<!--
-**tomepejo/tomepejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Simplify. Build. Repeat.**  
 
-Here are some ideas to get you started:
+## 🔧 What I Do  
+- Build clean, useful systems and tools  
+- Bridge engineering, product, and team growth  
+- Focus on clarity, collaboration, and long-term impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Care About  
+- Designing systems that scale with simplicity  
+- Growing strong, healthy teams  
+- Writing code that’s clear and maintainable  
+- Solving real problems that matter  
+
+## 📫 Let’s Connect
+- [Schedule a quick 15-minute call](#)  
