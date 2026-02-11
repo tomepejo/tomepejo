@@ -1,18 +1,38 @@
-# Hi, I’m Tome 👋  
-I love building things that work and working with people who care.  
+# Hi, I'm Tome 👋
 
-**Simplify. Build. Repeat.**  
+Senior Engineering Manager building software that modernizes traditional industries.
 
-## 🔧 What I Do  
-- Build clean, useful systems and tools  
-- Bridge engineering, product, and team growth  
-- Focus on clarity, collaboration, and long-term impact  
+**Simplify. Build. Repeat.**
 
-## 🧠 What I Care About  
-- Designing systems that scale with simplicity  
-- Growing strong, healthy teams  
-- Writing code that’s clear and maintainable  
-- Solving real problems that matter  
+## 🔧 What I Do
 
-## 📫 Let’s Connect
-- [Schedule a quick 15-minute call](#)  
+- Scale engineering teams and build high-performing cultures
+- Bridge technical vision with business outcomes
+- Build software used by hundreds of professionals globally
+- Currently modernizing construction at Knauf Digital
+
+## 🧠 What I Care About
+
+- **Clarity over cleverness** – Simple systems scale better
+- **Trust by default** – Autonomy drives ownership
+- **Mentorship as multiplier** – Growing others grows the organization
+- **Impact over activity** – Measure outcomes, not just output
+
+## 🎓 Mentoring
+
+Active on [ADPList](https://adplist.org/mentors/tome-pejoski) helping engineers with:
+- IC → Manager transitions
+- Scaling teams and building culture
+- Career growth and promotions
+- Relocating to Germany for tech careers
+
+## 📫 Let's Connect
+
+**Email:** tome.pejoski@gmail.com  
+**LinkedIn:** [linkedin.com/in/tomepejoski](https://linkedin.com/in/tomepejoski)  
+**ADPList:** [adplist.org/mentors/tome-pejoski](https://adplist.org/mentors/tome-pejoski)  
+**Location:** Munich, Germany 🇩🇪
+
+---
+
+**🇲🇰 → 🇩🇪** | TypeScript • Node.js • React • AWS • Azure | 10+ years engineering, 5+ years leadership
