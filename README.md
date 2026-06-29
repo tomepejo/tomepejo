@@ -39,4 +39,4 @@ I mentor on [ADPList](https://adplist.org/mentors/tome-pejoski) and [MentorCruis
 
 ---
 
-15+ years in software · 5+ years in engineering leadership · Munich, Germany 🇩🇪
+15+ years in software · 5+ years in engineering leadership
