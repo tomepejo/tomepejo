@@ -1,38 +1,42 @@
 # Hi, I'm Tome 👋
 
-Senior Engineering Manager building software that modernizes traditional industries.
+I'm an Engineering Leader based in Munich. I work with software teams, mentor engineers and managers, and currently lead engineering teams at Knauf Digital.
+
+Most of my work is around people, systems, delivery, and making unclear problems easier to move through.
 
 **Simplify. Build. Repeat.**
 
-## 🔧 What I Do
+## What I Work On
 
-- Scale engineering teams and build high-performing cultures
-- Bridge technical vision with business outcomes
-- Build software used by hundreds of professionals globally
-- Currently modernizing construction at Knauf Digital
+- Leading engineering teams at Knauf Digital
+- Building software for construction workflows
+- Helping engineers and managers grow into bigger roles
+- Turning unclear product and technical problems into direction
+- Keeping systems simple enough for people to work with
 
-## 🧠 What I Care About
+## How I Work
 
-- **Clarity over cleverness** – Simple systems scale better
-- **Trust by default** – Autonomy drives ownership
-- **Mentorship as multiplier** – Growing others grows the organization
-- **Impact over activity** – Measure outcomes, not just output
+- **Clear over clever** — simple systems are easier to scale and maintain
+- **Grow people past your role** — good leadership creates more leaders
+- **Impact over activity** — shipped work only matters if it changes something
+- **Hire slow, trust fast** — careful hiring, real ownership once people are in
 
-## 🎓 Mentoring
+## Mentoring
 
-Active on [ADPList](https://adplist.org/mentors/tome-pejoski) helping engineers with:
+I mentor on [ADPList](https://adplist.org/mentors/tome-pejoski) and [MentorCruise](https://mentorcruise.com/mentor/tomepejoski/), mostly around:
+
 - IC → Manager transitions
-- Scaling teams and building culture
-- Career growth and promotions
+- Manager → Senior Manager scope
+- Growth plans and promotion readiness
 - Relocating to Germany for tech careers
+- Choosing between technical and people leadership
 
-## 📫 Let's Connect
+## Connect
 
-**Email:** tome.pejoski@gmail.com  
+**Website:** [tome.pejoski.com](https://tome.pejoski.com)  
 **LinkedIn:** [linkedin.com/in/tomepejoski](https://linkedin.com/in/tomepejoski)  
-**ADPList:** [adplist.org/mentors/tome-pejoski](https://adplist.org/mentors/tome-pejoski)  
-**Location:** Munich, Germany 🇩🇪
+**Email:** tome.pejoski@gmail.com
 
 ---
 
-**🇲🇰 → 🇩🇪** | TypeScript • Node.js • React • AWS • Azure | 10+ years engineering, 5+ years leadership
+15+ years in software · 5+ years in engineering leadership · Munich, Germany 🇩🇪
