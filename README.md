@@ -6,21 +6,6 @@ Most of my work is around people, systems, delivery, and making unclear problems
 
 **Simplify. Build. Repeat.**
 
-## What I Work On
-
-- Leading engineering teams at Knauf Digital
-- Building software for construction workflows
-- Helping engineers and managers grow into bigger roles
-- Turning unclear product and technical problems into direction
-- Keeping systems simple enough for people to work with
-
-## How I Work
-
-- **Clear over clever** — simple systems are easier to scale and maintain
-- **Grow people past your role** — good leadership creates more leaders
-- **Impact over activity** — shipped work only matters if it changes something
-- **Hire slow, trust fast** — careful hiring, real ownership once people are in
-
 ## Mentoring
 
 I mentor on [ADPList](https://adplist.org/mentors/tome-pejoski) and [MentorCruise](https://mentorcruise.com/mentor/tomepejoski/), mostly around:
