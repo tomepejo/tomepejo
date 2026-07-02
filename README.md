@@ -18,9 +18,7 @@ I mentor on [ADPList](https://adplist.org/mentors/tome-pejoski) and [MentorCruis
 
 ## Connect
 
-**Website:** [tome.pejoski.com](https://tome.pejoski.com)  
 **LinkedIn:** [linkedin.com/in/tomepejoski](https://linkedin.com/in/tomepejoski)  
-**Email:** tome.pejoski@gmail.com
 
 ---
 
