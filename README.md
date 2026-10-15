@@ -4,8 +4,6 @@ I'm an Engineering Leader based in Munich. I work with software teams, mentor en
 
 Most of my work is around people, systems, delivery, and making unclear problems easier to move through.
 
-**Simplify. Build. Repeat.**
-
 ## Mentoring
 
 I mentor on [ADPList](https://adplist.org/mentors/tome-pejoski) and [MentorCruise](https://mentorcruise.com/mentor/tomepejoski/), mostly around:
